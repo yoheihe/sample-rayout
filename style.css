@@ -1,0 +1,171 @@
+body {
+  width: 100%;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.container_fluid {
+  width: 100%;
+}
+
+.page_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+  
+.wrapper {
+  margin-top: 1rem;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 0 2%;
+}
+
+.main_title {
+  margin-top: 20px;
+}
+
+h1 > a {
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+}
+
+/* 検索範囲 */
+.main_header {
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 7rem;
+}
+
+.header_content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  justify-content: center;
+  transform: translate(-50%, -50%);
+}
+
+.header_text {
+  color: #fff;
+  font-size: 40px;
+}
+
+.first_sample {
+  text-align: center;
+}
+
+.fa-sharp::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f007";
+}
+
+.first_sample .sample_text {
+  margin-top: 2rem;
+}
+
+.first_sample .sample_subtext {
+  margin-bottom: 5rem;
+}
+
+.sample .col-sm-4 {
+  padding: 0;
+}
+
+.title_sample p {
+  font-size: 24px;
+}
+
+/* 詳細 */
+.showcase img {
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.details_content_ch {
+  height: 300px;
+  padding: 4rem;
+}
+
+.col-sm-6 {
+  padding: 0;
+}
+
+/* ユーザーインフォ */
+.user_info {
+  padding: 5rem 0 5rem 0;
+  background: #f0f0f0;
+  width: 100%;
+}
+
+.user_info h1 {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.user_info .col-sm-4 {
+  padding: 0;
+}
+
+.main_sample_name {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sample_name_img {
+  width: 250px;
+  text-align: center;
+  justify-content: center;
+}
+
+.sample_name_img img {
+  width: 192px;
+  height: 192px;
+  border-radius: 50%;
+}
+
+/* フッター */
+.main_footer {
+  position: relative;
+}
+
+.footer_content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  justify-content: center;
+  transform: translate(-50%, -50%);
+}
+
+.footer_container {
+  display: block;
+  text-align: center;
+}
+
+
+.main_footer img {
+  width: 100%;
+  height: 300px;
+}
+
+.footer_text {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 3rem;
+}
+
+/* SNSリンク */
+.icon {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.fa-brands {
+  margin-left: 2rem;
+}
