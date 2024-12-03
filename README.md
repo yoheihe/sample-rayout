@@ -11,7 +11,7 @@ sample-rayout
 HTML,CSS,Bootstrap（CSSライブラリ）を使用してWebページサンプルの作成  
 
 # Requirement
-  
+bootstrap　5.3.0
 
 # Usage
 
