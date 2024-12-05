@@ -14,7 +14,16 @@ HTML,CSS,Bootstrap（CSSライブラリ）を使用してWebページサンプ�
 bootstrap　5.3.0
 
 # Usage
+Webサイトイメージを確認できます
 
+# Features
+github画面の右側の緑のcodeボタンからダウンロードを選択し、zipファイルを任意の保存先にダウンロード  
+
+![image](https://github.com/user-attachments/assets/6ff2d73e-94f5-4403-bad0-af4baf8b266b)
+
+
+ダウンロードしたファイルをダブルクリック、もしくは右クリック⇨開くにて解凍  
+解凍したファイルからindex.htmnlファイルをブラウザ上で開く
 
 # History
 ・どんなことを学んでいるか  
