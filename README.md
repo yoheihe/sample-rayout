@@ -2,7 +2,7 @@
 sample-rayout
 </h1>
 
-![image](https://github.com/user-attachments/assets/9f76eec4-084b-437b-b26b-182107785994)
+![image](https://github.com/user-attachments/assets/b0187851-cdca-41e9-a1f3-a6efac927418)
 ※画像は一部になります
 
 
